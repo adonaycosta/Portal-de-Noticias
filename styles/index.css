@@ -1,5 +1,5 @@
-@import url(styles/global.css);
-@import url(styles//utility.css);
-@import url(styles/nav.css);
-@import url(styles/sections.css);
+@import url(global.css);
+@import url(utility.css);
+@import url(nav.css);
+@import url(sections.css);
 
